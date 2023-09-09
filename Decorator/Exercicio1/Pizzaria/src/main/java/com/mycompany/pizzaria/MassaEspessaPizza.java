@@ -8,7 +8,7 @@ public class MassaEspessaPizza implements Pizza {
 
     @Override
     public double custo() {
-        return 60.0;
+        return 90.0;
     }
 
     @Override
