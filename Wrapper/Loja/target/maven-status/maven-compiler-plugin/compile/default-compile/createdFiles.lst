@@ -1,0 +1,5 @@
+com\mycompany\loja\Pagamento.class
+com\mycompany\loja\Loja.class
+com\mycompany\loja\AdaptadorPagamento.class
+com\mycompany\loja\CartaodeCredito.class
+com\mycompany\loja\Paypal.class
