@@ -1,0 +1,6 @@
+com\mycompany\acoes\Sujeito.class
+com\mycompany\acoes\AcaoBroker.class
+com\mycompany\acoes\Investidor.class
+com\mycompany\acoes\SujeitoConcreto.class
+com\mycompany\acoes\Acoes.class
+com\mycompany\acoes\Observer.class
