@@ -1,0 +1,8 @@
+com\mycompany\automoveis\VeiculoDadosVisitor.class
+com\mycompany\automoveis\Onibus.class
+com\mycompany\automoveis\Bicicleta.class
+com\mycompany\automoveis\VeiculoVisitor.class
+com\mycompany\automoveis\Carro.class
+com\mycompany\automoveis\Automoveis.class
+com\mycompany\automoveis\Veiculo.class
+com\mycompany\automoveis\VeiculoMensagemVisitor.class

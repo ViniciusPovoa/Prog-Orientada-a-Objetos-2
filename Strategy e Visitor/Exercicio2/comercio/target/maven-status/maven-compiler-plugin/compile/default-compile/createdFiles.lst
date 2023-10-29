@@ -1,0 +1,9 @@
+com\mycompany\comercio\CarrinhoDeCompras.class
+com\mycompany\comercio\Comercio.class
+com\mycompany\comercio\Item.class
+com\mycompany\comercio\PixPagamento.class
+com\mycompany\comercio\CartaoPagamento.class
+com\mycompany\comercio\FreteStrategy.class
+com\mycompany\comercio\SedexFrete.class
+com\mycompany\comercio\FreteNormal.class
+com\mycompany\comercio\PagamentoStrategy.class
